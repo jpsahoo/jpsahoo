@@ -1,6 +1,3 @@
-# Jyoti Pr. Sahoo
-
-
 ## About Me
 
 I am an academic and researcher working at the intersection of **Quantum AI, Federated Learning, and Cybersecurity**.
