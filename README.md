@@ -1,6 +1,5 @@
-# Jyoti Prakash Sahoo, Ph.D. (Senior Member, IEEE)
+# Jyoti Prakash Sahoo
 
-**Assistant Professor | National Taiwan University of Science and Technology (Taiwan Tech), Taiwan**
 
 ## About Me
 
