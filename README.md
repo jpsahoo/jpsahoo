@@ -1,4 +1,4 @@
-# Jyoti Prakash Sahoo
+# Jyoti Pr. Sahoo
 
 
 ## About Me
