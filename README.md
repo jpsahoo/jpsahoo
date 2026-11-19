@@ -25,7 +25,7 @@ My broader research interests include Generative AI for cybersecurity, trustwort
 
 ## Recent Publications
 
-### Q1 Journal Articles
+###  Journal Articles
 
 1. **Kar, B., Wakgra, F. G., Tadele, S. B., & Sahoo, J. P. (2026).** *Multi-Objective Offloading Optimization in MEC and Vehicular-Fog Federated Systems With Vehicle Mobility Using PSO-TD3 Hybrid Algorithm.* IEEE Transactions on Cloud Computing. [DOI](https://doi.org/10.1109/TCC.2026.3753332) **(Q1, IF: 5.3)**
 
